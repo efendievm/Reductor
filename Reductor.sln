@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reductor", "Reductor\Reductor.csproj", "{C34E8E70-D0E3-4165-979A-3D3F252C156A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypesLibrary", "TypesLibrary\TypesLibrary.csproj", "{6A86555E-D950-4858-BE8E-E32AB3002217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLibrary", "ModelLibrary\ModelLibrary.csproj", "{9387240B-5815-4A0F-9170-05EE1973689C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C34E8E70-D0E3-4165-979A-3D3F252C156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C34E8E70-D0E3-4165-979A-3D3F252C156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C34E8E70-D0E3-4165-979A-3D3F252C156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C34E8E70-D0E3-4165-979A-3D3F252C156A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A86555E-D950-4858-BE8E-E32AB3002217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A86555E-D950-4858-BE8E-E32AB3002217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A86555E-D950-4858-BE8E-E32AB3002217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A86555E-D950-4858-BE8E-E32AB3002217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9387240B-5815-4A0F-9170-05EE1973689C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9387240B-5815-4A0F-9170-05EE1973689C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9387240B-5815-4A0F-9170-05EE1973689C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9387240B-5815-4A0F-9170-05EE1973689C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

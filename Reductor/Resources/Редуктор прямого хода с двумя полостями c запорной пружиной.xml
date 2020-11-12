@@ -1,0 +1,10 @@
+<Reductor>
+  <InputData MaximumInletPressure="35000000" MinimumInletPressure="7830000" OutletPressure="5220000" InitialInletTemperature="293" Consumption="1" />
+  <ReductorType ValveStroke="Straight" Balansed="No" BarSpringAvaliable="Yes" />
+  <ReductorParameters>
+    <ValveParameters ValveDiameter="0,019" ValveSaddleWidth="0,0003" />
+    <PistonParameters HighPressurePistonDiameter="0,0191" />
+    <BarSpringParameters Draw="0" Resiliency="5000" Index="3" CoilDiameter="0" CoilCount="0" Pitch="0" Diameter="0" UnloadedLength="0" LoadedLength="0" PressureDrop="146000" HermeticPressure="1,8E-05" />
+    <MainSpringParameters Draw="1600" Resiliency="100000" Index="3,45" CoilDiameter="0,005339" CoilCount="12,757" Pitch="0,006593" Diameter="0,018418" UnloadedLength="0,092111" LoadedLength="0,076111" />
+  </ReductorParameters>
+</Reductor>

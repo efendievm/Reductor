@@ -1,0 +1,9 @@
+<Reductor>
+  <InputData MaximumInletPressure="35000000" MinimumInletPressure="7830000" OutletPressure="5220000" InitialInletTemperature="293" Consumption="1" />
+  <ReductorType ValveStroke="Reverse" Balansed="Yes" BarSpringAvaliable="No" />
+  <ReductorParameters>
+    <ValveParameters ValveDiameter="0,0095" ValveSaddleWidth="0,0003" />
+    <PistonParameters HighPressurePistonDiameter="0,0075" LowPressurePistonDiameter="0,05" />
+    <MainSpringParameters Draw="11145" Resiliency="380000" Index="3,5" CoilDiameter="0,01415" CoilCount="8,522" Pitch="0,017591" Diameter="0,049525" UnloadedLength="0,171142" LoadedLength="0,141813" />
+  </ReductorParameters>
+</Reductor>
